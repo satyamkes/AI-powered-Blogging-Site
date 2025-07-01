@@ -20,7 +20,7 @@ const Header = () => {
           </div>
         </form>
       </div>
-      <img src={assets.gradientBackground} alt="absolute -top-50 -z-1 opacity-50"/>
+      <img src={assets.gradientBackground} alt="" className='absolute -top-50 -z-1 opacity-50'/>
 
     </div>
   )
